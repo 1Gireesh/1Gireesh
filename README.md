@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/@gireesh-bhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@gireesh-bhat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gireesh-bhat-51bba8238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gireesh-bhat-51bba8238" height="30" width="40" /></a>
+  <a href="gireeshbhat68@gmail.com"><img src="https://www.nidirect.gov.uk/sites/default/files/styles/nigov_full_620_x1/public/images/email_logo.jpg?itok=ifUhNgCT" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
